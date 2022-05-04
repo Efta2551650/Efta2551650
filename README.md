@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Efta2551650
+- 👋 Hi, I’m @Eftaaa
 - 👀 I’m interested in program development, learning new things and getting experience.
 - 🌱 I’m currently learning OOP, Java, programmimg paradigms, Kotlin, Python.
 - 💞️ I’m looking to collaborate on any type of projects.
